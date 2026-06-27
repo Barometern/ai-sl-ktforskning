@@ -52,14 +52,14 @@ This document does not define the final confidence attached to a claim, nor does
 
 ## Dependencies
 
-This document depends on the methodological guardrails in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md), the terminology and precision rules in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md), and the source taxonomy context in [`/knowledge/record-types.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/record-types.md).
+This document depends on the methodological guardrails in [`/knowledge/research-principles.md`](research-principles.md), the terminology and precision rules in [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md), and the source taxonomy context in [`/knowledge/record-types.md`](record-types.md).
 
 ## Related Documents
 
-- Evidence model: [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Document analysis workflow: [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md)
+- Evidence model: [`/knowledge/evidence-model.md`](evidence-model.md)
+- Confidence model: [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- Document analysis workflow: [`/workflows/document-analysis.md`](../workflows/document-analysis.md)
 
 ## Why Source Evaluation Comes First
 
@@ -374,10 +374,10 @@ Another important future improvement is schema alignment. The framework will ben
 
 ## References
 
-- [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md)
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/record-types.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/record-types.md)
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md)
+- [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md)
+- [`/knowledge/research-principles.md`](research-principles.md)
+- [`/knowledge/record-types.md`](record-types.md)
+- [`/knowledge/evidence-model.md`](evidence-model.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- [`/workflows/document-analysis.md`](../workflows/document-analysis.md)

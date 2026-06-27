@@ -36,11 +36,11 @@ The changelog covers released milestones and major unreleased work that changes 
 
 ## Dependencies
 
-Roadmap alignment should be checked against [`/ROADMAP.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/ROADMAP.md).
+Roadmap alignment should be checked against [`/ROADMAP.md`](ROADMAP.md).
 
 ## Related Documents
 
-- Repository overview: [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md)
+- Repository overview: [`/README.md`](README.md)
 
 ## Unreleased
 
@@ -68,4 +68,4 @@ Roadmap alignment should be checked against [`/ROADMAP.md`](/Users/ludvigrogesta
 
 ## References
 
-- [`/ROADMAP.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/ROADMAP.md)
+- [`/ROADMAP.md`](ROADMAP.md)

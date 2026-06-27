@@ -40,8 +40,8 @@ Source characterization and conflict policy are required inputs.
 
 ## Related Documents
 
-- Record linking workflow: [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- Conflict report template: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- Record linking workflow: [`/workflows/record-linking.md`](../workflows/record-linking.md)
+- Conflict report template: [`/templates/conflict-report.md`](../templates/conflict-report.md)
 
 ## Contract Summary
 
@@ -59,4 +59,4 @@ Source characterization and conflict policy are required inputs.
 
 ## References
 
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
+- [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)

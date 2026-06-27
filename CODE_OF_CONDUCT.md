@@ -36,11 +36,11 @@ This policy applies to issues, pull requests, discussions, design reviews, and a
 
 ## Dependencies
 
-Community participation assumes compliance with the contribution process in [`/CONTRIBUTING.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CONTRIBUTING.md).
+Community participation assumes compliance with the contribution process in [`/CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Related Documents
 
-- Security escalation: [`/SECURITY.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/SECURITY.md)
+- Security escalation: [`/SECURITY.md`](SECURITY.md)
 
 ## Expected Behavior
 
@@ -72,4 +72,4 @@ Maintainers may edit, hide, or remove content that violates this policy and may 
 
 ## References
 
-- [`/CONTRIBUTING.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CONTRIBUTING.md)
+- [`/CONTRIBUTING.md`](CONTRIBUTING.md)

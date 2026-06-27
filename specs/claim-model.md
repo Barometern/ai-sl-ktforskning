@@ -52,16 +52,16 @@ This document does not define machine-readable claim formats or schema-level dat
 
 ## Dependencies
 
-This document depends on the methodological principles in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md), the evidence structure in [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md), and the confidence vocabulary in [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md).
+This document depends on the methodological principles in [`/knowledge/research-principles.md`](../knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md), the evidence structure in [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md), and the confidence vocabulary in [`/specs/confidence-model.md`](confidence-model.md).
 
 ## Related Documents
 
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- Record linking workflow: [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- Research report template: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- Person summary template: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](conflict-resolution.md)
+- Agent contracts: [`/specs/agent-contracts.md`](agent-contracts.md)
+- Research workflow: [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- Record linking workflow: [`/workflows/record-linking.md`](../workflows/record-linking.md)
+- Research report template: [`/templates/research-report.md`](../templates/research-report.md)
+- Person summary template: [`/templates/person-summary.md`](../templates/person-summary.md)
 
 ## What a Claim Is
 
@@ -90,6 +90,28 @@ This distinction matters because:
 - collapsing observations into claims without marking the transition hides the reasoning step and makes conclusions harder to audit or revise
 
 Framework-compliant outputs must preserve this distinction at every stage.
+
+## The Relationship Between Hypotheses and Claims
+
+The framework uses both `hypothesis` and `claim` as technical terms. They are not interchangeable, but they describe adjacent stages in the same reasoning process.
+
+A `hypothesis` is a provisional explanatory candidate that has been formed but has not yet been evaluated against sufficient evidence to constitute a formal assertion. Hypotheses are the working material of research: they direct search strategy, structure comparison, and frame the question being investigated. [`/knowledge/research-principles.md`](../knowledge/research-principles.md) describes the methodological discipline of hypothesis management — how to form hypotheses in comparable terms, keep them visible when unresolved, and revise them in response to evidence rather than convenience.
+
+A `claim` is a formal assertion that has been subjected to that evaluation. It carries an explicit confidence level drawn from the vocabulary defined in [`/specs/confidence-model.md`](confidence-model.md) and a traceable support structure.
+
+The transition from hypothesis to claim occurs when a researcher or agent applies the evidence framework: extracting observations, characterizing sources, comparing across the evidence set, and assigning a confidence level. Before that evaluation, the proposition is a hypothesis. After it, the proposition is a claim — even if its confidence level is `possible` or `unresolved`.
+
+This means the two terms map as follows:
+
+| Research process term | Formal model term |
+| --- | --- |
+| Active hypothesis under investigation | `possible` claim or `unresolved` claim |
+| Hypothesis gaining corroboration | `probable` claim |
+| Hypothesis accepted as adequately supported | `established` claim |
+| Hypothesis set aside but not disproven | Superseded or retired claim |
+| Hypothesis directly contradicted by evidence | `contradicted` claim |
+
+The practical implication is that `hypothesis` is the correct term when describing research posture and process, and `claim` is the correct term when describing the formal output of evidence evaluation. A live hypothesis should become a formal claim as soon as it has been evaluated, even if that evaluation yields `possible` or `unresolved` confidence. An unevaluated proposition should not be called a claim.
 
 ## Claim Types
 
@@ -215,7 +237,7 @@ For example, rather than claiming that a person was born in a particular village
 
 ## Claims in Conflict
 
-When two active claims conflict on a material point, the conflict must be addressed rather than ignored. The mechanism for that address is defined in [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md).
+When two active claims conflict on a material point, the conflict must be addressed rather than ignored. The mechanism for that address is defined in [`/specs/conflict-resolution.md`](conflict-resolution.md).
 
 The claim model requires only that conflict is recognized when it arises and that it is not silently absorbed into a synthesis that hides the contradiction. Two claims that cannot both be correct are not a problem to be narratively resolved; they are a research problem to be methodologically handled.
 
@@ -281,11 +303,11 @@ A second important improvement is to formalize the relationship between claims a
 
 ## References
 
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- [`/knowledge/research-principles.md`](../knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md)
+- [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md)
+- [`/specs/confidence-model.md`](confidence-model.md)
+- [`/specs/conflict-resolution.md`](conflict-resolution.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- [`/templates/research-report.md`](../templates/research-report.md)
+- [`/templates/person-summary.md`](../templates/person-summary.md)

@@ -51,15 +51,15 @@ The document does not define the full content of any one workflow or prompt cont
 
 ## Dependencies
 
-This document depends on the terminology and publication rules in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md), the separation-of-concerns principles in [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md), the ownership rules in [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md), and the contract framing in [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md).
+This document depends on the terminology and publication rules in [`/STYLE_GUIDE.md`](STYLE_GUIDE.md), the separation-of-concerns principles in [`/docs/design-principles.md`](docs/design-principles.md), the ownership rules in [`/architecture/module-boundaries.md`](architecture/module-boundaries.md), and the contract framing in [`/specs/agent-contracts.md`](specs/agent-contracts.md).
 
 ## Related Documents
 
-- Research principles: [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- Source evaluation: [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
+- Research principles: [`/knowledge/research-principles.md`](knowledge/research-principles.md)
+- Source evaluation: [`/knowledge/source-evaluation.md`](knowledge/source-evaluation.md)
+- Research workflow: [`/workflows/research-workflow.md`](workflows/research-workflow.md)
+- Confidence model: [`/specs/confidence-model.md`](specs/confidence-model.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](specs/conflict-resolution.md)
 
 ## Core Operating Mandate
 
@@ -372,11 +372,11 @@ Another likely improvement is a machine-readable companion specification that mi
 
 ## References
 
-- [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md)
-- [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
+- [`/STYLE_GUIDE.md`](STYLE_GUIDE.md)
+- [`/docs/design-principles.md`](docs/design-principles.md)
+- [`/architecture/module-boundaries.md`](architecture/module-boundaries.md)
+- [`/knowledge/research-principles.md`](knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](knowledge/source-evaluation.md)
+- [`/workflows/research-workflow.md`](workflows/research-workflow.md)
+- [`/specs/confidence-model.md`](specs/confidence-model.md)
+- [`/specs/conflict-resolution.md`](specs/conflict-resolution.md)

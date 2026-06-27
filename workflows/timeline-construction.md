@@ -40,8 +40,8 @@ Evidence and geography modules provide the interpretive context.
 
 ## Related Documents
 
-- Timeline template: [`/templates/timeline.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/timeline.md)
-- Person summary template: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- Timeline template: [`/templates/timeline.md`](../templates/timeline.md)
+- Person summary template: [`/templates/person-summary.md`](../templates/person-summary.md)
 
 ## Workflow Stages
 
@@ -60,4 +60,4 @@ Evidence and geography modules provide the interpretive context.
 
 ## References
 
-- [`/prompts/compare-sources.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/compare-sources.md)
+- [`/prompts/compare-sources.md`](../prompts/compare-sources.md)

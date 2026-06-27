@@ -39,8 +39,8 @@ Architecture and agent contracts define the package plan.
 
 ## Related Documents
 
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- Tests plan: [`/tests/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/tests/README.md)
+- Agent contracts: [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
+- Tests plan: [`/tests/README.md`](../tests/README.md)
 
 ## Planned Packages
 
@@ -61,4 +61,4 @@ Architecture and agent contracts define the package plan.
 
 ## References
 
-- [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
+- [`/architecture/module-boundaries.md`](../architecture/module-boundaries.md)

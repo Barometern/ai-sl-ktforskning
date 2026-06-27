@@ -35,7 +35,7 @@ revision_history:
 
 This document defines the conceptual structure of evidence within the Genealogy AI Framework. It describes what evidence is, how it is organized, how it connects sources to claims, and how it accumulates across a research investigation.
 
-The evidence model occupies the middle layer of the framework's reasoning architecture. Source evaluation, defined in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md), characterizes the evidentiary objects from which observations are drawn. Claim reasoning, defined in [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md), describes how conclusions are formed, supported, and revised. The evidence model defines the connective layer between those two: the structured set of relationships that allows a claim to be traced back to its observational basis and its observational basis to be traced back to its sources.
+The evidence model occupies the middle layer of the framework's reasoning architecture. Source evaluation, defined in [`/knowledge/source-evaluation.md`](source-evaluation.md), characterizes the evidentiary objects from which observations are drawn. Claim reasoning, defined in [`/specs/claim-model.md`](../specs/claim-model.md), describes how conclusions are formed, supported, and revised. The evidence model defines the connective layer between those two: the structured set of relationships that allows a claim to be traced back to its observational basis and its observational basis to be traced back to its sources.
 
 Without this middle layer, genealogical reasoning becomes opaque. Conclusions may appear plausible without being auditable, and the distinction between strong support and compatible speculation becomes invisible.
 
@@ -43,7 +43,7 @@ Without this middle layer, genealogical reasoning becomes opaque. Conclusions ma
 
 This document covers the conceptual components of evidence: what constitutes an evidence unit, how observations are extracted and characterized, how support and conflict relationships are represented, how direct and indirect evidence differ, and how evidence accumulates into a structured basis for claim assessment. It also covers provenance requirements and the relationship between evidence quality and confidence.
 
-This document does not define source evaluation criteria, which belong to [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md). It does not define claim types or the claim lifecycle, which belong to [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md). It does not define conflict resolution procedures, which belong to [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md). Each of those documents depends on the model defined here.
+This document does not define source evaluation criteria, which belong to [`/knowledge/source-evaluation.md`](source-evaluation.md). It does not define claim types or the claim lifecycle, which belong to [`/specs/claim-model.md`](../specs/claim-model.md). It does not define conflict resolution procedures, which belong to [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md). Each of those documents depends on the model defined here.
 
 ## Audience
 
@@ -55,16 +55,16 @@ This document does not define source evaluation criteria, which belong to [`/kno
 
 ## Dependencies
 
-This document depends on the methodological principles in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md) and the source characterization framework in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md).
+This document depends on the methodological principles in [`/knowledge/research-principles.md`](research-principles.md) and the source characterization framework in [`/knowledge/source-evaluation.md`](source-evaluation.md).
 
 ## Related Documents
 
-- Claim model: [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md)
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- Research memory: [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
-- Conflict report template: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- Claim model: [`/specs/claim-model.md`](../specs/claim-model.md)
+- Confidence model: [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- Research workflow: [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- Research memory: [`/workflows/research-memory.md`](../workflows/research-memory.md)
+- Conflict report template: [`/templates/conflict-report.md`](../templates/conflict-report.md)
 
 ## Why a Formal Evidence Model Is Necessary
 
@@ -89,7 +89,7 @@ A source is the artifact from which observations are derived. Sources may includ
 
 A source is not itself a unit of evidence. It is the evidentiary object from which evidence is drawn. The same source may contribute strong evidence for one claim and weak or irrelevant evidence for another, depending on what information it contains, what recording context produced it, and how close it is to the relevant events.
 
-Source characterization — evaluating the type, proximity, informant quality, and transmission status of a source — is defined fully in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md). The evidence model depends on that characterization but does not reproduce it.
+Source characterization — evaluating the type, proximity, informant quality, and transmission status of a source — is defined fully in [`/knowledge/source-evaluation.md`](source-evaluation.md). The evidence model depends on that characterization but does not reproduce it.
 
 ### Observation
 
@@ -129,7 +129,7 @@ A conflict edge exists when:
 - an observation conflicts with an established claim it should be compatible with
 - the combination of observations logically precludes a claim that would otherwise seem supported
 
-Conflict edges carry information about the nature and severity of the conflict. They are the primary input to the conflict resolution process defined in [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md).
+Conflict edges carry information about the nature and severity of the conflict. They are the primary input to the conflict resolution process defined in [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md).
 
 A conflict edge must not be removed by choosing one side of the contradiction without explanation. Resolution of a conflict edge requires an explicit resolution record that states which observations were preferred, why, and what the alternative now represents.
 
@@ -207,7 +207,7 @@ Independence matters because corroboration between genuinely independent observa
 
 The evidence model feeds directly into confidence assessment, but the relationship is not mechanical. Evidence quality shapes confidence; it does not determine it automatically.
 
-The confidence model, defined in [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md), defines five assessment dimensions: source quality, evidence consistency, identity fit, temporal and geographic plausibility, and residual unresolved conflict. Each of these dimensions draws on the evidence structure defined in this document.
+The confidence model, defined in [`/specs/confidence-model.md`](../specs/confidence-model.md), defines five assessment dimensions: source quality, evidence consistency, identity fit, temporal and geographic plausibility, and residual unresolved conflict. Each of these dimensions draws on the evidence structure defined in this document.
 
 Source quality is assessed through source evaluation applied to the sources from which observations were drawn. Evidence consistency is assessed by comparing observations across the support structure. Identity fit is assessed by examining whether the observations differentiate the subject from plausible alternatives. Residual unresolved conflict is assessed by examining whether any active conflict edges remain unresolved.
 
@@ -215,7 +215,7 @@ The important principle is that confidence cannot outrun its evidentiary basis. 
 
 ## Evidence and Claims
 
-The relationship between evidence and claims is defined in [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md). The evidence model and the claim model are complementary: the evidence model defines how support is structured; the claim model defines what is being supported and how conclusions are formed, revised, and preserved.
+The relationship between evidence and claims is defined in [`/specs/claim-model.md`](../specs/claim-model.md). The evidence model and the claim model are complementary: the evidence model defines how support is structured; the claim model defines what is being supported and how conclusions are formed, revised, and preserved.
 
 Two aspects of that relationship are worth noting here because they bear on how the evidence model is used in practice.
 
@@ -233,7 +233,7 @@ This requirement applies with particular force to indirect support edges, where 
 
 ## Evidence in Research Memory
 
-The evidence structure produced during a research investigation must be preserved for future use. Research memory, defined in [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md), depends on the evidence model to preserve not only conclusions but the support structure that produced them.
+The evidence structure produced during a research investigation must be preserved for future use. Research memory, defined in [`/workflows/research-memory.md`](../workflows/research-memory.md), depends on the evidence model to preserve not only conclusions but the support structure that produced them.
 
 A research session that produces claims without preserving their evidence structure creates fragile memory. Future researchers or agents resuming the investigation will be unable to distinguish supported conclusions from inherited assumptions, and will be unable to revise conclusions intelligently when new evidence arrives.
 
@@ -300,11 +300,11 @@ A second important improvement is closer integration with the research memory wo
 
 ## References
 
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
-- [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- [`/knowledge/research-principles.md`](research-principles.md)
+- [`/knowledge/source-evaluation.md`](source-evaluation.md)
+- [`/specs/claim-model.md`](../specs/claim-model.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- [`/workflows/research-memory.md`](../workflows/research-memory.md)
+- [`/templates/conflict-report.md`](../templates/conflict-report.md)

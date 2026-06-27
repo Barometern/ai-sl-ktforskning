@@ -35,12 +35,12 @@ The directory is for prompt specifications, not provider-specific prompt tuning.
 
 ## Dependencies
 
-Prompt ownership rules come from [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md).
+Prompt ownership rules come from [`/architecture/module-boundaries.md`](../architecture/module-boundaries.md).
 
 ## Related Documents
 
-- Prompt composition: [`/prompts/prompt-composition.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/prompt-composition.md)
-- Workflow index: [`/workflows/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/README.md)
+- Prompt composition: [`/prompts/prompt-composition.md`](prompt-composition.md)
+- Workflow index: [`/workflows/README.md`](../workflows/README.md)
 
 ## Modules
 
@@ -59,4 +59,4 @@ Prompt ownership rules come from [`/architecture/module-boundaries.md`](/Users/l
 
 ## References
 
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- [`/specs/agent-contracts.md`](../specs/agent-contracts.md)

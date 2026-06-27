@@ -40,7 +40,7 @@ Record taxonomy and source evaluation criteria are defined in the knowledge modu
 
 ## Related Documents
 
-- Analyze document prompt: [`/prompts/analyze-document.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/analyze-document.md)
+- Analyze document prompt: [`/prompts/analyze-document.md`](../prompts/analyze-document.md)
 
 ## Workflow Stages
 
@@ -60,4 +60,4 @@ Record taxonomy and source evaluation criteria are defined in the knowledge modu
 
 ## References
 
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
+- [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md)

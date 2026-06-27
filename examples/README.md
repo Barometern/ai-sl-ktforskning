@@ -39,7 +39,7 @@ Examples assume familiarity with the repository overview.
 
 ## Related Documents
 
-- Swedish research agent example: [`/examples/swedish-research-agent.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/examples/swedish-research-agent.md)
+- Swedish research agent example: [`/examples/swedish-research-agent.md`](swedish-research-agent.md)
 
 ## TODO Checklist
 
@@ -51,4 +51,4 @@ Examples assume familiarity with the repository overview.
 
 ## References
 
-- [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md)
+- [`/architecture/system-overview.md`](../architecture/system-overview.md)

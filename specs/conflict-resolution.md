@@ -36,7 +36,7 @@ revision_history:
 
 This document defines how the framework identifies, classifies, manages, and resolves conflicts in genealogical evidence. A conflict exists when two or more observations, claims, or sources cannot all be true simultaneously given the available interpretive context. Conflicts are not exceptional conditions to be minimized. They are a predictable feature of serious genealogical research, and their systematic handling is a mark of methodological maturity.
 
-This specification defines the policy for that handling. It does not define the procedures for all research workflows generally, nor does it govern confidence scoring in detail. Those concerns belong to [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md) and [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md) respectively.
+This specification defines the policy for that handling. It does not define the procedures for all research workflows generally, nor does it govern confidence scoring in detail. Those concerns belong to [`/workflows/research-workflow.md`](../workflows/research-workflow.md) and [`/specs/confidence-model.md`](confidence-model.md) respectively.
 
 ## Scope
 
@@ -54,15 +54,15 @@ This document does not define source evaluation criteria, claim formation proced
 
 ## Dependencies
 
-This document depends on the methodological principles in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md), the evidence structure in [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md), and the confidence vocabulary in [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md).
+This document depends on the methodological principles in [`/knowledge/research-principles.md`](../knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md), the evidence structure in [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md), and the confidence vocabulary in [`/specs/confidence-model.md`](confidence-model.md).
 
 ## Related Documents
 
-- Claim model: [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md)
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- Brick wall workflow: [`/workflows/brick-wall-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/brick-wall-workflow.md)
-- Conflict report template: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
-- Compare sources prompt: [`/prompts/compare-sources.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/compare-sources.md)
+- Claim model: [`/specs/claim-model.md`](claim-model.md)
+- Research workflow: [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- Brick wall workflow: [`/workflows/brick-wall-workflow.md`](../workflows/brick-wall-workflow.md)
+- Conflict report template: [`/templates/conflict-report.md`](../templates/conflict-report.md)
+- Compare sources prompt: [`/prompts/compare-sources.md`](../prompts/compare-sources.md)
 
 ## The Role of Conflict in Genealogical Research
 
@@ -184,7 +184,7 @@ Deferral is a legitimate and often correct outcome. A conflict that is explicitl
 
 ## The Conflict Record
 
-Every material conflict that cannot be immediately resolved must be captured in a conflict record. The conflict record is a first-class research artifact defined by the template at [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md).
+Every material conflict that cannot be immediately resolved must be captured in a conflict record. The conflict record is a first-class research artifact defined by the template at [`/templates/conflict-report.md`](../templates/conflict-report.md).
 
 A conflict record must identify:
 
@@ -282,11 +282,11 @@ A second improvement is a formal severity matrix that maps the interaction betwe
 
 ## References
 
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/claim-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/claim-model.md)
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
-- [`/prompts/compare-sources.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/compare-sources.md)
+- [`/knowledge/research-principles.md`](../knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md)
+- [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md)
+- [`/specs/confidence-model.md`](confidence-model.md)
+- [`/specs/claim-model.md`](claim-model.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- [`/templates/conflict-report.md`](../templates/conflict-report.md)
+- [`/prompts/compare-sources.md`](../prompts/compare-sources.md)

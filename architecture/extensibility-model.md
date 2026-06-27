@@ -35,12 +35,12 @@ This document covers extension categories and compatibility rules, not implement
 
 ## Dependencies
 
-Extensions must honor the ownership rules in [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md).
+Extensions must honor the ownership rules in [`/architecture/module-boundaries.md`](module-boundaries.md).
 
 ## Related Documents
 
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- Roadmap: [`/ROADMAP.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/ROADMAP.md)
+- Agent contracts: [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
+- Roadmap: [`/ROADMAP.md`](../ROADMAP.md)
 
 ## Extension Categories
 
@@ -68,4 +68,4 @@ Extensions must honor the ownership rules in [`/architecture/module-boundaries.m
 
 ## References
 
-- [`/knowledge/swedish-genealogy.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/swedish-genealogy.md)
+- [`/knowledge/swedish-genealogy.md`](../knowledge/swedish-genealogy.md)

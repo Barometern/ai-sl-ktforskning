@@ -36,12 +36,12 @@ The initial focus is Swedish naming practice, with room for later comparative mo
 
 ## Dependencies
 
-Country context is defined in [`/knowledge/swedish-genealogy.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/swedish-genealogy.md).
+Country context is defined in [`/knowledge/swedish-genealogy.md`](swedish-genealogy.md).
 
 ## Related Documents
 
-- Record linking workflow: [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- Decision trees: [`/specs/decision-trees.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/decision-trees.md)
+- Record linking workflow: [`/workflows/record-linking.md`](../workflows/record-linking.md)
+- Decision trees: [`/specs/decision-trees.md`](../specs/decision-trees.md)
 
 ## Key Cases
 
@@ -61,4 +61,4 @@ Country context is defined in [`/knowledge/swedish-genealogy.md`](/Users/ludvigr
 
 ## References
 
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)

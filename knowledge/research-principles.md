@@ -52,14 +52,14 @@ This document does not define the full criteria for source evaluation, the mecha
 
 ## Dependencies
 
-This document depends on the repository-wide language and conceptual discipline in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md), the agent behavior rules in [`/Project Instructions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/Project%20Instructions.md), and the source characterization groundwork in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md).
+This document depends on the repository-wide language and conceptual discipline in [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md), the agent behavior rules in [`/Project Instructions.md`](../Project%20Instructions.md), and the source characterization groundwork in [`/knowledge/source-evaluation.md`](source-evaluation.md).
 
 ## Related Documents
 
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Research plan template: [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- Research workflow: [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- Confidence model: [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- Research plan template: [`/templates/research-plan.md`](../templates/research-plan.md)
 
 ## Methodological Orientation
 
@@ -169,6 +169,8 @@ The researcher should therefore not hide contradictions prematurely. They often 
 ## Hypothesis Management
 
 Genealogical reasoning is at its best when hypotheses are handled explicitly rather than implicitly.
+
+A hypothesis in this document is a provisional explanatory candidate — an explanation under active consideration that has not yet been evaluated against sufficient evidence to constitute a formal assertion. Once a hypothesis has been evaluated through the evidence framework, it becomes a claim with an explicit confidence level. The formal relationship between these two terms is defined in [`/specs/claim-model.md`](../specs/claim-model.md).
 
 ### Form hypotheses in comparable terms
 
@@ -335,10 +337,10 @@ This document will also benefit from future pairing with benchmark examples draw
 
 ## References
 
-- [`/Project Instructions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/Project%20Instructions.md)
-- [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- [`/Project Instructions.md`](../Project%20Instructions.md)
+- [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md)
+- [`/knowledge/source-evaluation.md`](source-evaluation.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)
+- [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- [`/templates/research-plan.md`](../templates/research-plan.md)

@@ -39,8 +39,8 @@ Design principles define the required separation of concerns.
 
 ## Related Documents
 
-- Analyze document prompt: [`/prompts/analyze-document.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/analyze-document.md)
-- Investigate person prompt: [`/prompts/investigate-person.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/investigate-person.md)
+- Analyze document prompt: [`/prompts/analyze-document.md`](analyze-document.md)
+- Investigate person prompt: [`/prompts/investigate-person.md`](investigate-person.md)
 
 ## Composition Components
 
@@ -60,4 +60,4 @@ Design principles define the required separation of concerns.
 
 ## References
 
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)

@@ -55,16 +55,16 @@ It is an umbrella workflow. More specialized workflows such as document analysis
 
 ## Dependencies
 
-This workflow depends on the behavioral rules in [`/Project Instructions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/Project%20Instructions.md), the methodological foundation in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md), the source characterization rules in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md), and the implementation contract framing in [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md).
+This workflow depends on the behavioral rules in [`/Project Instructions.md`](../Project%20Instructions.md), the methodological foundation in [`/knowledge/research-principles.md`](../knowledge/research-principles.md), the source characterization rules in [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md), and the implementation contract framing in [`/specs/agent-contracts.md`](../specs/agent-contracts.md).
 
 ## Related Documents
 
-- Document analysis workflow: [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md)
-- Person investigation workflow: [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
-- Record linking workflow: [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- Research memory workflow: [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
-- Research report template: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- Research plan template: [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- Document analysis workflow: [`/workflows/document-analysis.md`](document-analysis.md)
+- Person investigation workflow: [`/workflows/person-investigation.md`](person-investigation.md)
+- Record linking workflow: [`/workflows/record-linking.md`](record-linking.md)
+- Research memory workflow: [`/workflows/research-memory.md`](research-memory.md)
+- Research report template: [`/templates/research-report.md`](../templates/research-report.md)
+- Research plan template: [`/templates/research-plan.md`](../templates/research-plan.md)
 
 ## Workflow Philosophy
 
@@ -159,7 +159,7 @@ The objective of Stage 3 is to gather relevant sources and transform them into s
 
 ### Attached workflow
 
-When a task involves close source inspection, the workflow should delegate the detailed handling to [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md).
+When a task involves close source inspection, the workflow should delegate the detailed handling to [`/workflows/document-analysis.md`](document-analysis.md).
 
 ### Exit condition
 
@@ -212,8 +212,8 @@ The objective of Stage 5 is to translate structured observations into claims, co
 
 Depending on the task, this stage may delegate to:
 
-- [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
-- [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
+- [`/workflows/person-investigation.md`](person-investigation.md)
+- [`/workflows/record-linking.md`](record-linking.md)
 
 ### Exit condition
 
@@ -287,9 +287,9 @@ Depending on the task state, outputs may include:
 
 Relevant output artifacts include:
 
-- [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
-- [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
+- [`/templates/research-report.md`](../templates/research-report.md)
+- [`/templates/research-plan.md`](../templates/research-plan.md)
+- [`/workflows/research-memory.md`](research-memory.md)
 
 ### Exit condition
 
@@ -395,13 +395,13 @@ This document would also benefit from example runs that show how the same workfl
 
 ## References
 
-- [`/Project Instructions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/Project%20Instructions.md)
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md)
-- [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
-- [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
-- [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- [`/Project Instructions.md`](../Project%20Instructions.md)
+- [`/knowledge/research-principles.md`](../knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md)
+- [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
+- [`/workflows/document-analysis.md`](document-analysis.md)
+- [`/workflows/person-investigation.md`](person-investigation.md)
+- [`/workflows/record-linking.md`](record-linking.md)
+- [`/workflows/research-memory.md`](research-memory.md)
+- [`/templates/research-report.md`](../templates/research-report.md)
+- [`/templates/research-plan.md`](../templates/research-plan.md)

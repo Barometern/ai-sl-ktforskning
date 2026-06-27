@@ -35,12 +35,12 @@ This directory is not for production runtime logic.
 
 ## Dependencies
 
-Testing strategy is defined in [`/tests/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/tests/README.md).
+Testing strategy is defined in [`/tests/README.md`](../tests/README.md).
 
 ## Related Documents
 
-- Frontmatter validation: [`/scripts/validate_frontmatter.sh`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/scripts/validate_frontmatter.sh)
-- Structure validation: [`/scripts/validate_structure.sh`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/scripts/validate_structure.sh)
+- Frontmatter validation: [`/scripts/validate_frontmatter.sh`](validate_frontmatter.sh)
+- Structure validation: [`/scripts/validate_structure.sh`](validate_structure.sh)
 
 ## TODO Checklist
 
@@ -52,4 +52,4 @@ Testing strategy is defined in [`/tests/README.md`](/Users/ludvigrogestam/Docume
 
 ## References
 
-- [`/.github/workflows/ci.yml`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/.github/workflows/ci.yml)
+- [`/.github/workflows/ci.yml`](../.github/workflows/ci.yml)

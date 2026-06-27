@@ -37,13 +37,13 @@ Architecture documents define stable design intent; they should not be used for 
 
 ## Dependencies
 
-Project-level context lives in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md).
+Project-level context lives in [`/README.md`](../README.md).
 
 ## Related Documents
 
-- System overview: [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md)
-- Module boundaries: [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
-- Extensibility model: [`/architecture/extensibility-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/extensibility-model.md)
+- System overview: [`/architecture/system-overview.md`](system-overview.md)
+- Module boundaries: [`/architecture/module-boundaries.md`](module-boundaries.md)
+- Extensibility model: [`/architecture/extensibility-model.md`](extensibility-model.md)
 
 ## TODO Checklist
 
@@ -55,4 +55,4 @@ Project-level context lives in [`/README.md`](/Users/ludvigrogestam/Documents/Co
 
 ## References
 
-- [`/src/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/src/README.md)
+- [`/src/README.md`](../src/README.md)

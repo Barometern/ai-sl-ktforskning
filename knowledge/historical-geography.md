@@ -36,12 +36,12 @@ This module covers interpretive geography, not gazetteer implementation.
 
 ## Dependencies
 
-Country context is defined in [`/knowledge/swedish-genealogy.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/swedish-genealogy.md).
+Country context is defined in [`/knowledge/swedish-genealogy.md`](swedish-genealogy.md).
 
 ## Related Documents
 
-- Record types: [`/knowledge/record-types.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/record-types.md)
-- Timeline construction: [`/workflows/timeline-construction.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/timeline-construction.md)
+- Record types: [`/knowledge/record-types.md`](record-types.md)
+- Timeline construction: [`/workflows/timeline-construction.md`](../workflows/timeline-construction.md)
 
 ## Key Concerns
 
@@ -59,4 +59,4 @@ Country context is defined in [`/knowledge/swedish-genealogy.md`](/Users/ludvigr
 
 ## References
 
-- [`/templates/timeline.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/timeline.md)
+- [`/templates/timeline.md`](../templates/timeline.md)

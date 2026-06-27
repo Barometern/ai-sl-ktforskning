@@ -35,12 +35,12 @@ It is a structural artifact, not a reasoning policy.
 
 ## Dependencies
 
-Timeline workflow ownership is defined in [`/workflows/timeline-construction.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/timeline-construction.md).
+Timeline workflow ownership is defined in [`/workflows/timeline-construction.md`](../workflows/timeline-construction.md).
 
 ## Related Documents
 
-- Person summary: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
-- Research report: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
+- Person summary: [`/templates/person-summary.md`](person-summary.md)
+- Research report: [`/templates/research-report.md`](research-report.md)
 
 ## Template Sections
 
@@ -60,4 +60,4 @@ Timeline workflow ownership is defined in [`/workflows/timeline-construction.md`
 
 ## References
 
-- [`/knowledge/historical-geography.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/historical-geography.md)
+- [`/knowledge/historical-geography.md`](../knowledge/historical-geography.md)

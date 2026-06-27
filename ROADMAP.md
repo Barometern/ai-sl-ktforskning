@@ -38,12 +38,12 @@ This roadmap describes major phases for the repository and framework. It is not 
 
 ## Dependencies
 
-Milestones depend on the system boundaries in [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md).
+Milestones depend on the system boundaries in [`/architecture/system-overview.md`](architecture/system-overview.md).
 
 ## Related Documents
 
-- Vision: [`/docs/vision.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/vision.md)
-- Changelog: [`/CHANGELOG.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CHANGELOG.md)
+- Vision: [`/docs/vision.md`](docs/vision.md)
+- Changelog: [`/CHANGELOG.md`](CHANGELOG.md)
 
 ## Phases
 
@@ -75,5 +75,5 @@ Milestones depend on the system boundaries in [`/architecture/system-overview.md
 
 ## References
 
-- [`/specs/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/README.md)
-- [`/examples/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/examples/README.md)
+- [`/specs/README.md`](specs/README.md)
+- [`/examples/README.md`](examples/README.md)

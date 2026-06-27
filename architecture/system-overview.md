@@ -36,12 +36,12 @@ This document defines conceptual layers and integration points. It does not pres
 
 ## Dependencies
 
-This overview depends on the design rules in [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md).
+This overview depends on the design rules in [`/docs/design-principles.md`](../docs/design-principles.md).
 
 ## Related Documents
 
-- Module boundaries: [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- Module boundaries: [`/architecture/module-boundaries.md`](module-boundaries.md)
+- Agent contracts: [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
 
 ## Layers
 
@@ -67,4 +67,4 @@ Lower layers must not depend on higher layers. For example, a knowledge module s
 
 ## References
 
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)

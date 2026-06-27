@@ -52,15 +52,15 @@ This guide does not govern implementation syntax in a future codebase beyond the
 
 ## Dependencies
 
-This guide depends on the architectural separation rules defined in [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md) and the conceptual principles defined in [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md). Repository-level intent is defined in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md).
+This guide depends on the architectural separation rules defined in [`/architecture/module-boundaries.md`](architecture/module-boundaries.md) and the conceptual principles defined in [`/docs/design-principles.md`](docs/design-principles.md). Repository-level intent is defined in [`/README.md`](README.md).
 
 ## Related Documents
 
-- Repository overview: [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md)
-- Vision: [`/docs/vision.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/vision.md)
-- Design principles: [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- Module boundaries: [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
-- Contribution policy: [`/CONTRIBUTING.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CONTRIBUTING.md)
+- Repository overview: [`/README.md`](README.md)
+- Vision: [`/docs/vision.md`](docs/vision.md)
+- Design principles: [`/docs/design-principles.md`](docs/design-principles.md)
+- Module boundaries: [`/architecture/module-boundaries.md`](architecture/module-boundaries.md)
+- Contribution policy: [`/CONTRIBUTING.md`](CONTRIBUTING.md)
 
 ## Governing Principles
 
@@ -248,7 +248,7 @@ The following terms are canonical and should be preferred unless a document expl
 | `observation` | A recorded detail extracted from a source |
 | `claim` | A proposition asserted about a person, event, place, or relationship |
 | `evidence` | Structured support for or against a claim |
-| `hypothesis` | A not-yet-settled explanatory candidate |
+| `hypothesis` | A provisional explanatory candidate under active investigation that has not yet been evaluated against sufficient evidence to become a claim. Once evaluated, a hypothesis becomes a claim at the appropriate confidence level. The formal mapping is defined in `/specs/claim-model.md`. |
 | `conflict` | An explicit contradiction or incompatibility requiring evaluation |
 | `confidence` | A structured assessment of support quality, not model self-belief |
 
@@ -523,9 +523,9 @@ Another likely improvement is a companion editorial checklist for domain reviewe
 
 ## References
 
-- [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md)
-- [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- [`/README.md`](README.md)
+- [`/docs/design-principles.md`](docs/design-principles.md)
+- [`/architecture/module-boundaries.md`](architecture/module-boundaries.md)
+- [`/knowledge/research-principles.md`](knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](knowledge/source-evaluation.md)
+- [`/specs/confidence-model.md`](specs/confidence-model.md)

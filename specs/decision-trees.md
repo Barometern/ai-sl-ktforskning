@@ -39,8 +39,8 @@ Record linking provides the primary workflow context.
 
 ## Related Documents
 
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
+- Confidence model: [`/specs/confidence-model.md`](confidence-model.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](conflict-resolution.md)
 
 ## Initial Decision Areas
 
@@ -59,4 +59,4 @@ Record linking provides the primary workflow context.
 
 ## References
 
-- [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
+- [`/workflows/record-linking.md`](../workflows/record-linking.md)

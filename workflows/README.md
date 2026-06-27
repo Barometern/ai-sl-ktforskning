@@ -36,11 +36,11 @@ Workflows describe process logic, not prompt wording or implementation strategy.
 
 ## Dependencies
 
-Conceptual layer boundaries come from [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md).
+Conceptual layer boundaries come from [`/architecture/system-overview.md`](../architecture/system-overview.md).
 
 ## Related Documents
 
-- Prompt index: [`/prompts/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/README.md)
+- Prompt index: [`/prompts/README.md`](../prompts/README.md)
 
 ## Modules
 
@@ -62,4 +62,4 @@ Conceptual layer boundaries come from [`/architecture/system-overview.md`](/User
 
 ## References
 
-- [`/templates/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/README.md)
+- [`/templates/README.md`](../templates/README.md)

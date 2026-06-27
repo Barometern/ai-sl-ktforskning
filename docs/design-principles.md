@@ -35,11 +35,11 @@ These principles apply to documentation design, runtime package layout, prompt c
 
 ## Dependencies
 
-Principles should be applied together with the style rules in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md).
+Principles should be applied together with the style rules in [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md).
 
 ## Related Documents
 
-- Module boundaries: [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md)
+- Module boundaries: [`/architecture/module-boundaries.md`](../architecture/module-boundaries.md)
 
 ## Principles
 
@@ -61,4 +61,4 @@ Principles should be applied together with the style rules in [`/STYLE_GUIDE.md`
 
 ## References
 
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
