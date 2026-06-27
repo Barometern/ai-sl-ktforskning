@@ -1,0 +1,34 @@
+name: Feature proposal
+description: Propose a new module, capability, or architectural enhancement.
+title: "[Proposal]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the gap or limitation.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Explain the proposed addition and the owning module.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Note competing designs or why existing modules are insufficient.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Architectural impact
+      description: Identify affected boundaries, contracts, or documents.
+    validations:
+      required: true

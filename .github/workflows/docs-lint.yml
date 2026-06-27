@@ -1,0 +1,18 @@
+name: docs-lint
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "scripts/**"
+      - ".github/workflows/docs-lint.yml"
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate markdown frontmatter
+        run: bash scripts/validate_frontmatter.sh
