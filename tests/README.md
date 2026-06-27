@@ -35,12 +35,12 @@ This file sets strategy, not concrete test implementation.
 
 ## Dependencies
 
-The package plan in [`/src/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/src/README.md) informs the testing layers.
+The package plan in [`/src/README.md`](../src/README.md) informs the testing layers.
 
 ## Related Documents
 
-- Specification index: [`/specs/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/README.md)
-- Examples index: [`/examples/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/examples/README.md)
+- Specification index: [`/specs/README.md`](../specs/README.md)
+- Examples index: [`/examples/README.md`](../examples/README.md)
 
 ## Planned Test Layers
 
@@ -60,4 +60,4 @@ The package plan in [`/src/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-
 
 ## References
 
-- [`/scripts/validate_structure.sh`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/scripts/validate_structure.sh)
+- [`/scripts/validate_structure.sh`](../scripts/validate_structure.sh)

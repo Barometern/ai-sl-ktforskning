@@ -36,12 +36,12 @@ This workflow applies to research impasses rather than routine document review.
 
 ## Dependencies
 
-Conflict handling rules come from [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md).
+Conflict handling rules come from [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md).
 
 ## Related Documents
 
-- Conflict report template: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
-- Research plan template: [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- Conflict report template: [`/templates/conflict-report.md`](../templates/conflict-report.md)
+- Research plan template: [`/templates/research-plan.md`](../templates/research-plan.md)
 
 ## Workflow Stages
 
@@ -60,4 +60,4 @@ Conflict handling rules come from [`/specs/conflict-resolution.md`](/Users/ludvi
 
 ## References
 
-- [`/specs/decision-trees.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/decision-trees.md)
+- [`/specs/decision-trees.md`](../specs/decision-trees.md)

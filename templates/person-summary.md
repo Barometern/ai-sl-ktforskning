@@ -35,12 +35,12 @@ It is intended for person-level outputs, not full research reports.
 
 ## Dependencies
 
-Workflow ownership is defined in [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md).
+Workflow ownership is defined in [`/workflows/person-investigation.md`](../workflows/person-investigation.md).
 
 ## Related Documents
 
-- Timeline template: [`/templates/timeline.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/timeline.md)
-- Conflict report template: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- Timeline template: [`/templates/timeline.md`](timeline.md)
+- Conflict report template: [`/templates/conflict-report.md`](conflict-report.md)
 
 ## Template Sections
 
@@ -60,4 +60,4 @@ Workflow ownership is defined in [`/workflows/person-investigation.md`](/Users/l
 
 ## References
 
-- [`/knowledge/naming-conventions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/naming-conventions.md)
+- [`/knowledge/naming-conventions.md`](../knowledge/naming-conventions.md)

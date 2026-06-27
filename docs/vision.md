@@ -37,12 +37,12 @@ The project focuses on framework capabilities rather than end-user tree manageme
 
 ## Dependencies
 
-The repository overview in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md) and the roadmap in [`/ROADMAP.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/ROADMAP.md) define the project context.
+The repository overview in [`/README.md`](../README.md) and the roadmap in [`/ROADMAP.md`](../ROADMAP.md) define the project context.
 
 ## Related Documents
 
-- Design principles: [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- System overview: [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md)
+- Design principles: [`/docs/design-principles.md`](design-principles.md)
+- System overview: [`/architecture/system-overview.md`](../architecture/system-overview.md)
 
 ## Non-Goals
 
@@ -68,5 +68,5 @@ The repository overview in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/
 
 ## References
 
-- [`/knowledge/swedish-genealogy.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/swedish-genealogy.md)
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- [`/knowledge/swedish-genealogy.md`](../knowledge/swedish-genealogy.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)

@@ -36,12 +36,12 @@ It covers report structure, not content generation logic.
 
 ## Dependencies
 
-Workflow context is defined in [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md).
+Workflow context is defined in [`/workflows/research-workflow.md`](../workflows/research-workflow.md).
 
 ## Related Documents
 
-- Research plan: [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
-- Conflict report: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- Research plan: [`/templates/research-plan.md`](research-plan.md)
+- Conflict report: [`/templates/conflict-report.md`](conflict-report.md)
 
 ## Template Sections
 
@@ -63,4 +63,4 @@ Workflow context is defined in [`/workflows/research-workflow.md`](/Users/ludvig
 
 ## References
 
-- [`/templates/timeline.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/timeline.md)
+- [`/templates/timeline.md`](timeline.md)

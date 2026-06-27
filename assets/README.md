@@ -34,11 +34,11 @@ It excludes raw datasets and generated build output.
 
 ## Dependencies
 
-Naming and documentation rules come from [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md).
+Naming and documentation rules come from [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md).
 
 ## Related Documents
 
-- Architecture index: [`/architecture/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/README.md)
+- Architecture index: [`/architecture/README.md`](../architecture/README.md)
 
 ## TODO Checklist
 
@@ -50,4 +50,4 @@ Naming and documentation rules come from [`/STYLE_GUIDE.md`](/Users/ludvigrogest
 
 ## References
 
-- [`/assets/diagrams/.gitkeep`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/assets/diagrams/.gitkeep)
+- [`/assets/diagrams/.gitkeep`](diagrams/.gitkeep)

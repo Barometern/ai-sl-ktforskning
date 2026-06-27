@@ -40,8 +40,8 @@ The example uses Swedish knowledge modules and the core research workflow.
 
 ## Related Documents
 
-- Investigate person prompt: [`/prompts/investigate-person.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/investigate-person.md)
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- Investigate person prompt: [`/prompts/investigate-person.md`](../prompts/investigate-person.md)
+- Agent contracts: [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
 
 ## Example Composition
 
@@ -60,4 +60,4 @@ The example uses Swedish knowledge modules and the core research workflow.
 
 ## References
 
-- [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
+- [`/templates/research-report.md`](../templates/research-report.md)

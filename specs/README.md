@@ -36,12 +36,12 @@ These documents are the bridge between conceptual documentation and executable c
 
 ## Dependencies
 
-Architectural ownership is defined in [`/architecture/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/README.md).
+Architectural ownership is defined in [`/architecture/README.md`](../architecture/README.md).
 
 ## Related Documents
 
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- Confidence model: [`/specs/confidence-model.md`](confidence-model.md)
+- Agent contracts: [`/specs/agent-contracts.md`](agent-contracts.md)
 
 ## Modules
 
@@ -60,4 +60,4 @@ Architectural ownership is defined in [`/architecture/README.md`](/Users/ludvigr
 
 ## References
 
-- [`/tests/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/tests/README.md)
+- [`/tests/README.md`](../tests/README.md)

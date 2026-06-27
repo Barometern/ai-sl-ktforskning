@@ -52,14 +52,14 @@ This document does not define machine-readable scoring algorithms, statistical c
 
 ## Dependencies
 
-This document depends on the methodological groundwork in [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md), and the evidence structure defined in [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md).
+This document depends on the methodological groundwork in [`/knowledge/research-principles.md`](../knowledge/research-principles.md), the source characterization framework in [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md), and the evidence structure defined in [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md).
 
 ## Related Documents
 
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- Person summary template: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
-- Research report template: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](conflict-resolution.md)
+- Agent contracts: [`/specs/agent-contracts.md`](agent-contracts.md)
+- Person summary template: [`/templates/person-summary.md`](../templates/person-summary.md)
+- Research report template: [`/templates/research-report.md`](../templates/research-report.md)
 
 ## Why a Confidence Model Is Necessary
 
@@ -97,7 +97,7 @@ Framework-compliant confidence assessment must evaluate the following dimensions
 
 The first dimension concerns the evidentiary weight of the sources supporting a claim. This is not a property of a single source in isolation. It concerns how the relevant sources characterize the claim as a group: whether they are original or derivative, how close they are to the event, who supplied the information, and what recording context shaped their content.
 
-Source quality is evaluated through the framework defined in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md). A high source quality rating for a claim requires at least one source that is close to the event, uses an informant with likely firsthand knowledge, and is not primarily a derivative or compiled summary.
+Source quality is evaluated through the framework defined in [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md). A high source quality rating for a claim requires at least one source that is close to the event, uses an informant with likely firsthand knowledge, and is not primarily a derivative or compiled summary.
 
 A claim supported only by derivative or compiled sources should not be assigned high confidence regardless of other factors.
 
@@ -246,7 +246,7 @@ Confidence should never be revised downward silently. A claim that was assessed 
 
 Confidence and conflict resolution are related but distinct. Unresolved conflict constrains confidence; it does not replace the need to assess the other dimensions independently.
 
-The conflict resolution specification at [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md) defines how conflicts are classified and managed. The confidence model depends on that classification to apply the residual conflict dimension accurately. A conflict that has been formally resolved under the conflict resolution specification should no longer count as residual against a confidence assessment, even if the underlying disagreement in the sources remains visible.
+The conflict resolution specification at [`/specs/conflict-resolution.md`](conflict-resolution.md) defines how conflicts are classified and managed. The confidence model depends on that classification to apply the residual conflict dimension accurately. A conflict that has been formally resolved under the conflict resolution specification should no longer count as residual against a confidence assessment, even if the underlying disagreement in the sources remains visible.
 
 ## Implications for AI Agents
 
@@ -296,9 +296,9 @@ A second important improvement is to formalize the relationship between confiden
 
 ## References
 
-- [`/knowledge/research-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/research-principles.md)
-- [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
-- [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
+- [`/knowledge/research-principles.md`](../knowledge/research-principles.md)
+- [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md)
+- [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md)
+- [`/specs/conflict-resolution.md`](conflict-resolution.md)
+- [`/templates/person-summary.md`](../templates/person-summary.md)
+- [`/templates/research-report.md`](../templates/research-report.md)

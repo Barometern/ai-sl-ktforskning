@@ -43,15 +43,15 @@ This repository is not a family tree product, a genealogy database, or a prompt 
 
 ## Dependencies
 
-The repository depends on the documentation system in [`/docs/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/README.md), the architecture contracts in [`/architecture/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/README.md), and the standards defined in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md).
+The repository depends on the documentation system in [`/docs/README.md`](docs/README.md), the architecture contracts in [`/architecture/README.md`](architecture/README.md), and the standards defined in [`/STYLE_GUIDE.md`](STYLE_GUIDE.md).
 
 ## Related Documents
 
-- Vision: [`/docs/vision.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/vision.md)
-- Architecture: [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md)
-- Knowledge modules: [`/knowledge/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/README.md)
-- Workflow modules: [`/workflows/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/README.md)
-- Contribution policy: [`/CONTRIBUTING.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CONTRIBUTING.md)
+- Vision: [`/docs/vision.md`](docs/vision.md)
+- Architecture: [`/architecture/system-overview.md`](architecture/system-overview.md)
+- Knowledge modules: [`/knowledge/README.md`](knowledge/README.md)
+- Workflow modules: [`/workflows/README.md`](workflows/README.md)
+- Contribution policy: [`/CONTRIBUTING.md`](CONTRIBUTING.md)
 
 ## Repository Layout
 
@@ -103,6 +103,6 @@ Version `0.1` is optimized for Swedish genealogy because Swedish parish, househo
 
 ## References
 
-- [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- [`/ROADMAP.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/ROADMAP.md)
+- [`/docs/design-principles.md`](docs/design-principles.md)
+- [`/specs/agent-contracts.md`](specs/agent-contracts.md)
+- [`/ROADMAP.md`](ROADMAP.md)

@@ -40,8 +40,8 @@ The core workflow and naming conventions modules are required inputs.
 
 ## Related Documents
 
-- Record linking: [`/workflows/record-linking.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/record-linking.md)
-- Person summary template: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- Record linking: [`/workflows/record-linking.md`](record-linking.md)
+- Person summary template: [`/templates/person-summary.md`](../templates/person-summary.md)
 
 ## Workflow Stages
 
@@ -61,4 +61,4 @@ The core workflow and naming conventions modules are required inputs.
 
 ## References
 
-- [`/prompts/investigate-person.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/investigate-person.md)
+- [`/prompts/investigate-person.md`](../prompts/investigate-person.md)

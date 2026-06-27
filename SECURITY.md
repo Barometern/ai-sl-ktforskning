@@ -37,12 +37,12 @@ This policy covers repository vulnerabilities, dependency risks, credential expo
 
 ## Dependencies
 
-Contributors should coordinate architectural changes through [`/CONTRIBUTING.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CONTRIBUTING.md) before landing mitigation work that changes public contracts.
+Contributors should coordinate architectural changes through [`/CONTRIBUTING.md`](CONTRIBUTING.md) before landing mitigation work that changes public contracts.
 
 ## Related Documents
 
-- Conduct policy: [`/CODE_OF_CONDUCT.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CODE_OF_CONDUCT.md)
-- Extensibility rules: [`/architecture/extensibility-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/extensibility-model.md)
+- Conduct policy: [`/CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- Extensibility rules: [`/architecture/extensibility-model.md`](architecture/extensibility-model.md)
 
 ## Reporting
 
@@ -72,5 +72,5 @@ During the bootstrap stage, the `main` branch is the only supported line. Once r
 
 ## References
 
-- [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md)
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- [`/README.md`](README.md)
+- [`/specs/agent-contracts.md`](specs/agent-contracts.md)

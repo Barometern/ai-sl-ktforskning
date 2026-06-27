@@ -36,12 +36,12 @@ This document defines what should be remembered and how it should be categorized
 
 ## Dependencies
 
-Evidence concepts come from [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md).
+Evidence concepts come from [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md).
 
 ## Related Documents
 
-- Agent contracts: [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
-- Research workflow: [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
+- Agent contracts: [`/specs/agent-contracts.md`](../specs/agent-contracts.md)
+- Research workflow: [`/workflows/research-workflow.md`](research-workflow.md)
 
 ## Memory Categories
 
@@ -62,4 +62,4 @@ Evidence concepts come from [`/knowledge/evidence-model.md`](/Users/ludvigrogest
 
 ## References
 
-- [`/templates/research-plan.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-plan.md)
+- [`/templates/research-plan.md`](../templates/research-plan.md)

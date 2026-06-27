@@ -40,8 +40,8 @@ Name and location interpretation depends on the related knowledge modules.
 
 ## Related Documents
 
-- Decision trees: [`/specs/decision-trees.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/decision-trees.md)
-- Person investigation: [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
+- Decision trees: [`/specs/decision-trees.md`](../specs/decision-trees.md)
+- Person investigation: [`/workflows/person-investigation.md`](person-investigation.md)
 
 ## Workflow Stages
 
@@ -60,4 +60,4 @@ Name and location interpretation depends on the related knowledge modules.
 
 ## References
 
-- [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- [`/specs/confidence-model.md`](../specs/confidence-model.md)

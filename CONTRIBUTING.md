@@ -39,13 +39,13 @@ The guide applies to documentation, architecture specifications, scripts, templa
 
 ## Dependencies
 
-Contributors must follow the rules in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md) and preserve the boundaries in [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md).
+Contributors must follow the rules in [`/STYLE_GUIDE.md`](STYLE_GUIDE.md) and preserve the boundaries in [`/architecture/module-boundaries.md`](architecture/module-boundaries.md).
 
 ## Related Documents
 
-- Conduct expectations: [`/CODE_OF_CONDUCT.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/CODE_OF_CONDUCT.md)
-- Security reporting: [`/SECURITY.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/SECURITY.md)
-- Design principles: [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
+- Conduct expectations: [`/CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- Security reporting: [`/SECURITY.md`](SECURITY.md)
+- Design principles: [`/docs/design-principles.md`](docs/design-principles.md)
 
 ## Contribution Workflow
 
@@ -84,6 +84,6 @@ Contributors must follow the rules in [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/
 
 ## References
 
-- [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md)
-- [`/scripts/validate_frontmatter.sh`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/scripts/validate_frontmatter.sh)
-- [`/scripts/validate_structure.sh`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/scripts/validate_structure.sh)
+- [`/README.md`](README.md)
+- [`/scripts/validate_frontmatter.sh`](scripts/validate_frontmatter.sh)
+- [`/scripts/validate_structure.sh`](scripts/validate_structure.sh)

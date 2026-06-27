@@ -40,8 +40,8 @@ Architecture and prompt modules define the surrounding structure.
 
 ## Related Documents
 
-- Research memory workflow: [`/workflows/research-memory.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-memory.md)
-- Confidence model: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- Research memory workflow: [`/workflows/research-memory.md`](../workflows/research-memory.md)
+- Confidence model: [`/specs/confidence-model.md`](confidence-model.md)
 
 ## Contract Areas
 
@@ -62,4 +62,4 @@ Architecture and prompt modules define the surrounding structure.
 
 ## References
 
-- [`/src/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/src/README.md)
+- [`/src/README.md`](../src/README.md)

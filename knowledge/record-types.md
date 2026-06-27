@@ -36,12 +36,12 @@ This document provides a conceptual taxonomy for the first release.
 
 ## Dependencies
 
-Evaluation guidance is defined in [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md).
+Evaluation guidance is defined in [`/knowledge/source-evaluation.md`](source-evaluation.md).
 
 ## Related Documents
 
-- Document analysis workflow: [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md)
-- Person investigation workflow: [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
+- Document analysis workflow: [`/workflows/document-analysis.md`](../workflows/document-analysis.md)
+- Person investigation workflow: [`/workflows/person-investigation.md`](../workflows/person-investigation.md)
 
 ## Initial Taxonomy
 
@@ -61,4 +61,4 @@ Evaluation guidance is defined in [`/knowledge/source-evaluation.md`](/Users/lud
 
 ## References
 
-- [`/prompts/analyze-document.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/analyze-document.md)
+- [`/prompts/analyze-document.md`](../prompts/analyze-document.md)

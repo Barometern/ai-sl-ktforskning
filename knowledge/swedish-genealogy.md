@@ -37,12 +37,12 @@ It summarizes the research environment rather than cataloging every archive or p
 
 ## Dependencies
 
-Detailed record and naming guidance is split into [`/knowledge/record-types.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/record-types.md) and [`/knowledge/naming-conventions.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/naming-conventions.md).
+Detailed record and naming guidance is split into [`/knowledge/record-types.md`](record-types.md) and [`/knowledge/naming-conventions.md`](naming-conventions.md).
 
 ## Related Documents
 
-- Extensibility model: [`/architecture/extensibility-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/extensibility-model.md)
-- Person investigation workflow: [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md)
+- Extensibility model: [`/architecture/extensibility-model.md`](../architecture/extensibility-model.md)
+- Person investigation workflow: [`/workflows/person-investigation.md`](../workflows/person-investigation.md)
 
 ## Domain Notes
 
@@ -61,4 +61,4 @@ Detailed record and naming guidance is split into [`/knowledge/record-types.md`]
 
 ## References
 
-- [`/knowledge/historical-geography.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/historical-geography.md)
+- [`/knowledge/historical-geography.md`](historical-geography.md)

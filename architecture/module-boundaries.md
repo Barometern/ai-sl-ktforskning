@@ -35,12 +35,12 @@ Boundary rules apply to documentation today and to implementation packages later
 
 ## Dependencies
 
-The layered model from [`/architecture/system-overview.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/system-overview.md) is authoritative.
+The layered model from [`/architecture/system-overview.md`](system-overview.md) is authoritative.
 
 ## Related Documents
 
-- Design principles: [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
-- Style guide: [`/STYLE_GUIDE.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/STYLE_GUIDE.md)
+- Design principles: [`/docs/design-principles.md`](../docs/design-principles.md)
+- Style guide: [`/STYLE_GUIDE.md`](../STYLE_GUIDE.md)
 
 ## Ownership Matrix
 
@@ -63,5 +63,5 @@ The layered model from [`/architecture/system-overview.md`](/Users/ludvigrogesta
 
 ## References
 
-- [`/knowledge/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/README.md)
-- [`/prompts/prompt-composition.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/prompt-composition.md)
+- [`/knowledge/README.md`](../knowledge/README.md)
+- [`/prompts/prompt-composition.md`](../prompts/prompt-composition.md)

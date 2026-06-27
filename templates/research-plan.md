@@ -39,8 +39,8 @@ Brick wall and research workflows often produce this artifact.
 
 ## Related Documents
 
-- Research report: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- Conflict report: [`/templates/conflict-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/conflict-report.md)
+- Research report: [`/templates/research-report.md`](research-report.md)
+- Conflict report: [`/templates/conflict-report.md`](conflict-report.md)
 
 ## Template Sections
 
@@ -61,4 +61,4 @@ Brick wall and research workflows often produce this artifact.
 
 ## References
 
-- [`/workflows/brick-wall-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/brick-wall-workflow.md)
+- [`/workflows/brick-wall-workflow.md`](../workflows/brick-wall-workflow.md)

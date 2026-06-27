@@ -36,12 +36,12 @@ It does not duplicate module-specific specifications. Instead, it points readers
 
 ## Dependencies
 
-The repository overview in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/README.md) is the required entry point.
+The repository overview in [`/README.md`](../README.md) is the required entry point.
 
 ## Related Documents
 
-- Vision: [`/docs/vision.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/vision.md)
-- Design principles: [`/docs/design-principles.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/docs/design-principles.md)
+- Vision: [`/docs/vision.md`](vision.md)
+- Design principles: [`/docs/design-principles.md`](design-principles.md)
 
 ## Document Index
 
@@ -58,4 +58,4 @@ The repository overview in [`/README.md`](/Users/ludvigrogestam/Documents/Codex/
 
 ## References
 
-- [`/architecture/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/README.md)
+- [`/architecture/README.md`](../architecture/README.md)

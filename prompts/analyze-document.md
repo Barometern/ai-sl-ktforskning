@@ -36,11 +36,11 @@ It is a task interface, not a reusable source of domain truth.
 
 ## Dependencies
 
-Workflow ownership is defined in [`/workflows/document-analysis.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/document-analysis.md).
+Workflow ownership is defined in [`/workflows/document-analysis.md`](../workflows/document-analysis.md).
 
 ## Related Documents
 
-- Source evaluation: [`/knowledge/source-evaluation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/source-evaluation.md)
+- Source evaluation: [`/knowledge/source-evaluation.md`](../knowledge/source-evaluation.md)
 
 ## Contract Summary
 
@@ -58,4 +58,4 @@ Workflow ownership is defined in [`/workflows/document-analysis.md`](/Users/ludv
 
 ## References
 
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- [`/specs/agent-contracts.md`](../specs/agent-contracts.md)

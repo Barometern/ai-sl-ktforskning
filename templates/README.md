@@ -36,12 +36,12 @@ Templates define output structure, not reasoning rules or workflow logic.
 
 ## Dependencies
 
-Workflow ownership is defined in [`/workflows/README.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/README.md).
+Workflow ownership is defined in [`/workflows/README.md`](../workflows/README.md).
 
 ## Related Documents
 
-- Research report: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
-- Person summary: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- Research report: [`/templates/research-report.md`](research-report.md)
+- Person summary: [`/templates/person-summary.md`](person-summary.md)
 
 ## Modules
 
@@ -61,4 +61,4 @@ Workflow ownership is defined in [`/workflows/README.md`](/Users/ludvigrogestam/
 
 ## References
 
-- [`/specs/agent-contracts.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/agent-contracts.md)
+- [`/specs/agent-contracts.md`](../specs/agent-contracts.md)

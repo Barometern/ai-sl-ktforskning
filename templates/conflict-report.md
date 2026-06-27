@@ -35,12 +35,12 @@ It applies to contradictions between records, interpretations, or identity hypot
 
 ## Dependencies
 
-Conflict policy is defined in [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md).
+Conflict policy is defined in [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md).
 
 ## Related Documents
 
-- Compare sources prompt: [`/prompts/compare-sources.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/prompts/compare-sources.md)
-- Research report: [`/templates/research-report.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/research-report.md)
+- Compare sources prompt: [`/prompts/compare-sources.md`](../prompts/compare-sources.md)
+- Research report: [`/templates/research-report.md`](research-report.md)
 
 ## Template Sections
 
@@ -60,4 +60,4 @@ Conflict policy is defined in [`/specs/conflict-resolution.md`](/Users/ludvigrog
 
 ## References
 
-- [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
+- [`/knowledge/evidence-model.md`](../knowledge/evidence-model.md)

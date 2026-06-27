@@ -36,12 +36,12 @@ It governs the person investigation task and expected outputs.
 
 ## Dependencies
 
-The workflow owner is [`/workflows/person-investigation.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/person-investigation.md).
+The workflow owner is [`/workflows/person-investigation.md`](../workflows/person-investigation.md).
 
 ## Related Documents
 
-- Conflict resolution: [`/specs/conflict-resolution.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/conflict-resolution.md)
-- Person summary template: [`/templates/person-summary.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/templates/person-summary.md)
+- Conflict resolution: [`/specs/conflict-resolution.md`](../specs/conflict-resolution.md)
+- Person summary template: [`/templates/person-summary.md`](../templates/person-summary.md)
 
 ## Contract Summary
 
@@ -59,4 +59,4 @@ The workflow owner is [`/workflows/person-investigation.md`](/Users/ludvigrogest
 
 ## References
 
-- [`/specs/decision-trees.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/decision-trees.md)
+- [`/specs/decision-trees.md`](../specs/decision-trees.md)

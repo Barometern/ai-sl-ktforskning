@@ -36,12 +36,12 @@ The initial modules emphasize Swedish genealogy because Swedish sources are high
 
 ## Dependencies
 
-Boundary rules are defined in [`/architecture/module-boundaries.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/architecture/module-boundaries.md).
+Boundary rules are defined in [`/architecture/module-boundaries.md`](../architecture/module-boundaries.md).
 
 ## Related Documents
 
-- Evidence contract context: [`/knowledge/evidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/knowledge/evidence-model.md)
-- Confidence policy: [`/specs/confidence-model.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/specs/confidence-model.md)
+- Evidence contract context: [`/knowledge/evidence-model.md`](evidence-model.md)
+- Confidence policy: [`/specs/confidence-model.md`](../specs/confidence-model.md)
 
 ## Modules
 
@@ -64,4 +64,4 @@ Boundary rules are defined in [`/architecture/module-boundaries.md`](/Users/ludv
 
 ## References
 
-- [`/workflows/research-workflow.md`](/Users/ludvigrogestam/Documents/Codex/ai-sl-ktforskning/workflows/research-workflow.md)
+- [`/workflows/research-workflow.md`](../workflows/research-workflow.md)
